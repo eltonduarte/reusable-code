@@ -1,6 +1,4 @@
-"""
-Exemplo de uso
-"""
+""" Template """
 
 from reusable_code import log_to_file, make_browser
 
