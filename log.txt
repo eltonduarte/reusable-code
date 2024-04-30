@@ -1,0 +1,45 @@
+2024-04-30 15:21:21.364137 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:21:23.084486 | INFO | Página acessada com sucesso
+2024-04-30 15:21:23.239099 | ERRO | Fim do processamento
+2024-04-30 15:21:52.676213 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:21:54.405585 | INFO | Página acessada com sucesso
+2024-04-30 15:21:54.639332 | ERRO | Fim do processamento
+2024-04-30 15:22:53.112105 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:22:54.758923 | INFO | Página acessada com sucesso
+2024-04-30 15:22:54.999832 | ERRO | Fim do processamento
+2024-04-30 15:23:28.928459 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:23:30.657916 | INFO | Página acessada com sucesso
+2024-04-30 15:23:30.894211 | ERRO | Fim do processamento
+2024-04-30 15:24:22.160188 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:24:23.995190 | INFO | Página acessada com sucesso
+2024-04-30 15:24:24.162705 | ERRO | Fim do processamento
+2024-04-30 15:25:41.653692 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:25:43.729915 | INFO | Página acessada com sucesso
+2024-04-30 15:25:43.856719 | ERRO | Fim do processamento
+2024-04-30 15:26:02.454147 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:26:04.166512 | INFO | Página acessada com sucesso
+2024-04-30 15:26:04.433598 | ERRO | Fim do processamento
+2024-04-30 15:27:45.087498 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:27:46.671613 | INFO | Página acessada com sucesso
+2024-04-30 15:27:46.869780 | ERRO | Fim do processamento
+2024-04-30 15:27:59.848621 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:28:01.453551 | INFO | Página acessada com sucesso
+2024-04-30 15:28:01.723881 | ERRO | Fim do processamento
+2024-04-30 15:28:29.014453 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:28:31.953568 | INFO | Página acessada com sucesso
+2024-04-30 15:28:32.089877 | ERRO | Fim do processamento
+2024-04-30 15:29:04.466440 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:29:06.094713 | INFO | Página acessada com sucesso
+2024-04-30 15:29:06.339640 | ERRO | Fim do processamento
+2024-04-30 15:33:17.177637 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:33:18.831601 | INFO | Página acessada com sucesso
+2024-04-30 15:33:19.046595 | ERRO | Fim do processamento
+2024-04-30 15:35:23.105585 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:35:24.781362 | INFO | Página acessada com sucesso
+2024-04-30 15:35:24.970292 | ERRO | Fim do processamento
+2024-04-30 15:35:38.508716 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:35:40.358205 | INFO | Página acessada com sucesso
+2024-04-30 15:35:40.578069 | ERRO | Fim do processamento
+2024-04-30 15:39:35.346828 | INFO | Sessão com o webdriver criada com sucesso
+2024-04-30 15:39:37.098878 | INFO | Página acessada com sucesso
+2024-04-30 15:39:37.286330 | ERRO | Fim do processamento

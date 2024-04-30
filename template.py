@@ -1,6 +1,14 @@
-""" Template """
+""" Template Para Automações Web
+    Criada por: @eltonpduarte
+    Ultima atualização em: 30/04/2024
+"""
 
-from reusable_code import log_to_file, make_browser
+# Importação dos módulos que serão utilizados
+from reusable_code import make_browser, log_to_file, taskkill, wait_for_conditions, config                            
+
+# Construir caminhos dentro do projeto da seguinte forma: BASE_DIR / 'subdir'.
+BASE_DIR = config.base_dir()
+PATH_LOG = config.path_log()
 
 try:
     bot_web = make_browser.chrome()
